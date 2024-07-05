@@ -5230,14 +5230,14 @@ mjx-container[display],
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: var(--mobileday-bg);
+    background: url(https://s2.loli.net/2024/07/05/9sQ7ZXrAe1cUawL.png);
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: var(--mobilenight-bg);
+    background: url(https://s2.loli.net/2024/07/05/TbAvxQFEuBy5weZ.jpg);
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
